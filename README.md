@@ -1,7 +1,7 @@
 #KellyShyno
 #sudoInTermux
 #this script install sudo in termux
-#installing
+#installing..
 cd ~
 git clone https://github.com/KellyShyno/sudoInTermux
 cd sudoInTermux
