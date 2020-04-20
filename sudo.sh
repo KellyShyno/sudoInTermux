@@ -5,7 +5,7 @@
  echo ""
  echo -e "\e[1;31msudoInTermux\e[0m""\e[1;35m(&_&)\e[0m"
  echo -e "\e[1;31mversion: 1.0.0\e[0m"
- echo -e "\e[1;33mvk: https://vk.com/termuxkelly\e[0m"
+ echo -e "\e[1;33mvk: https://vk.com/linuxkelly\e[0m"
  echo ""
  echo -e "\e[1;32mInstalling sudo in termux..\e[0m"
 
