@@ -75,7 +75,7 @@ rm -rf data/termux-sudo;
   else
 echo
   fi;
-sudoInstalling;
+internetChecking;
 }
 
 
